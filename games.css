@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  background-color: #f1f1f1;
+  color: #0f141e;
+
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Roboto", sans-serif;
+}
+
+.game-container {
+  max-width: 850px;
+  margin: auto;
+  padding-top: 25px;
+}
+
+.game-container h2 {
+  text-align: center;
+}
+
+.game-container div {
+  border-radius: 25px;
+}
+
+.game-container p {
+  text-align: center;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  width: 510px;
+}
+
+.raft {
+  margin-bottom: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: hsla(240, 100%, 50%, 0.2);
+}
+
+.download-raft {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: bold;
+  width: 100px;
+  height: 20px;
+  background: hsl(210, 100%, 50%);
+}
+
+.valheim {
+  margin-bottom: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: hsla(30, 100%, 50%, 0.3);
+}
+
+.download-valheim {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: bold;
+  width: 100px;
+  height: 20px;
+  background: hsl(30, 100%, 50%);
+}
+
+.minecraft {
+  margin-bottom: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: hsla(120, 100%, 50%, 0.3);
+}
+
+.download-minecraft {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: bold;
+  width: 100px;
+  height: 20px;
+  background: hsl(120, 100%, 50%);
+}
+
+.csgo {
+  margin-bottom: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: hsla(120, 100%, 0%, 0.2);
+}
+
+.download-csgo {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: bold;
+  width: 100px;
+  height: 20px;
+  background: grey;
+}
+
+.fortnite {
+  margin-bottom: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: hsla(270, 100%, 50%, 0.3);
+}
+
+.download-fortnite {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: bold;
+  width: 100px;
+  height: 20px;
+  background: hsl(270, 100%, 50%);
+}
+
+.pubg {
+  margin-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: hsla(60, 100%, 50%, 0.5);
+}
+
+.download-pubg {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: bold;
+  width: 100px;
+  height: 20px;
+  background: hsl(60, 100%, 50%);
+}
